@@ -21,6 +21,8 @@ function App() {
       <BoardComponent
         board = {board}
         setBoard = {setBoard}
+
+        //17:22
       />
     </div>
   );
